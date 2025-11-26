@@ -7,7 +7,7 @@ SilentVoice blends computer vision, gesture recognition, and a modern UI to crea
 
 ## 🎬 Quick Links
 
-🔗 Live Demo (Prototype)  
+🔗 Live Demo (Prototype) : https://silentvoice-nu.vercel.app/ 
 📹 Video Presentation : https://youtu.be/WF0T4I5TQ8k?si=2otuxgmud0KB81m7
 
 ## 📋 Table of Contents
